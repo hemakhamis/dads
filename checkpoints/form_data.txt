@@ -1,0 +1,192 @@
+propeller shaft:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+hydraulic tank:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+hydraulic pump:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+hydraulic hose:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+hydraulic oil:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+slewing teble:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+slewing teble:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+slewing gear and beaning:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+elevating cylinder:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+boom structure:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+fly-jib:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+single top:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+sheave and hook block:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+boom hoist wire:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+load hoist wire:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+winch motor:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+clutch:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+brake:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+clutch:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+brake:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+wire rope:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+hook block:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+operation control:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+selector switch:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+angle indicator:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+pressure gauge:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+LRl:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+anti-tow block:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+boom stop:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+outrigger:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+jack cylinder:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+float:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+

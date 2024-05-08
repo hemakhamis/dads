@@ -1,0 +1,83 @@
+Contract ID: 
+Title: 
+Company Name: 
+Subsidiary: 
+Department: 
+Street: 
+Addition: 
+Zip Code: 
+Location: 
+Country: 
+Company Phone: 
+Company Fax: 
+Website: 
+Contact Person Name: 
+Contact Person Phone: 
+Contact Person Fax: 
+Contact Person Email: 
+
+Crane Type: Mobile crane
+Code / ID: 
+Symbol: 
+Location / Number Plate: 
+Manufacturer: 
+Vehicle Type: 
+Load Capacity [t]: 
+Year of Build: 
+Commissioning Date: 
+Date of Last Inspection: 
+Date of Next Inspection: 
+Carrier Structure:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Tyre pressure:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Wheel Nuts:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Radiator water:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Engine Oil Level:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Diesel Level:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Diesel Tank:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Any Retrofitted Fuel Tanks:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+
+Battery water level:
+Assessment: ok
+Comment: 
+Responsible: 
+Deadline: 
+

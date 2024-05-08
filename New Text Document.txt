@@ -1,0 +1,37 @@
+Tyre Pressure
+Wheel Nuts
+Radiator Water
+Engine Oil Level
+Diesel Level
+Diesel Tank
+Any Retrofitted Fuel Tanks
+Battery Water Level
+Power Take-off (PTO)
+Propeller Shaft
+Hydraulic Tank
+Hydraulic Pump
+Hydraulic Hose
+Hydraulic Oil
+Slewing Table
+Slewing Gear and Bearing
+Elevating Cylinder
+Boom Structure
+Fly-jib
+Single Top (Repeated)
+Sheave and Hook Block
+Boom Hoist Wire
+Winch Motor
+Clutch
+Brake
+Wire Rope
+Hook Block (Repeated)
+Operation Control
+Selector Switch
+Angle Indicator
+Pressure Gauge
+LRl
+Anti-tow Block
+Boom Stop
+Outrigger
+Jack Cylinder
+Float

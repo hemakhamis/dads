@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inspections</title>
+    <style>
+        /* Navbar styling */
+        .navbar {
+            background-color: #191970; /* Dark blue color */
+            color: #fff; /* White text */
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: relative;
+            font-family: "Comic Sans MS", "Comic Sans", monospace; /* Set font family */
+        }
+
+        /* Circle button styling */
+        .circle-button {
+            background-color: #191970; /* Dark blue color */
+            color: #fff; /* White text */
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 24px;
+            cursor: pointer;
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            transition: all 0.3s ease-in-out;
+            font-family: "Comic Sans MS", "Comic Sans", monospace; /* Set font family */
+        }
+
+        /* Tooltip styling */
+        .tooltip {
+            visibility: hidden;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1;
+            top: -40px;
+            right: 50%;
+            transform: translateX(50%);
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-family: "Comic Sans MS", "Comic Sans", monospace; /* Set font family */
+        }
+
+        /* Show tooltip on hover */
+        .circle-button:hover + .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+<!-- Navbar -->
+<div class="navbar">
+    Inspections
+</div>
+
+<!-- Circle button -->
+<button onclick="window.location.href='1.php'" class="circle-button">
+    +
+</button>
+<div class="tooltip">Add Inspection</div>
+
+</body>
+</html>
